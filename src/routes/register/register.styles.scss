@@ -1,0 +1,19 @@
+.register-route-container {
+  padding: 50px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  .players-info-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .domino-input {
+    }
+  }
+  .domino-button {
+    margin: 50px auto;
+  }
+}
